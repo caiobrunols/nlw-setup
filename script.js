@@ -62,7 +62,6 @@ nlwSetup.load()
 
 
 
-
 /*const cel = {
     cor: 'preto',
     ligar: function(){
